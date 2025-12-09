@@ -1,0 +1,16 @@
+age,salary,years_experience,department,performance_score
+25,50000,1,Sales,7.5
+28,55000,3,Sales,8.2
+32,65000,7,Engineering,8.8
+29,60000,4,Engineering,8.0
+35,75000,10,Management,9.1
+26,52000,2,Sales,7.8
+31,70000,8,Engineering,8.5
+27,54000,2,Sales,7.9
+33,72000,9,Engineering,8.7
+30,68000,6,Management,8.4
+24,48000,0,Sales,7.2
+29,61000,5,Engineering,8.3
+36,78000,12,Management,9.2
+28,56000,3,Sales,8.0
+32,69000,8,Engineering,8.6
